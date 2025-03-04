@@ -98,6 +98,9 @@ menu:active {
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
+section:first-of-type {
+  background-color: #2e2f42;
+}
 .blue_button {
   font-family: "Roboto", sans-serif;
   text-align: center;

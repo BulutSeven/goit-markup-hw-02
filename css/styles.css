@@ -17,6 +17,11 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 36px;
+  line-height: 1.11; /* Satır aralığı */
+  text-align: center; /* Metni ortala */
+  letter-spacing: 0.02em; /* Harf aralığı */
+  text-transform: capitalize; /* Kelimelerin ilk harfini büyük yap */
+  color: #2e2f42; /* Metin rengi */
 }
 h3 {
   font-weight: medium;

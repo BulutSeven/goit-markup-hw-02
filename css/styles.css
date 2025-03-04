@@ -8,6 +8,11 @@ body {
 h1 {
   font-weight: bold;
   font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  background-color: #2e2f42;
 }
 h2 {
   font-weight: bold;
